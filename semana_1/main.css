@@ -1,0 +1,50 @@
+header,
+body,
+footer {
+    width: 1024px;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+h3 {
+    color: cornflowerblue;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+h4 {
+    color: cornflowerblue;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
+
+h2 {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#confirmed_cases {
+    padding: 0px;
+    margin: 0px;
+}
+
+#medical_atention {
+    padding: 0px;
+    margin: 0px;
+}
+
+#positive_cases {
+    padding: 0px;
+    margin: 0px;
+}
